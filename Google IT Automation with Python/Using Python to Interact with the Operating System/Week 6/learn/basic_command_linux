@@ -1,0 +1,5 @@
+echo is a command used to print messages to the screen, 
+cat is command for showing contents of files, 
+ls is the command to list contents of a directory, 
+chmod is a command to change permissions of a file
+mkdir command to create a new directory
