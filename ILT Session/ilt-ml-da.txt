@@ -1,0 +1,10 @@
+data analysis is collect, tansformation, and organization of data in order to draw conclusions, make prediction
+
+five essential aspect analytic skill
+curiosity
+under
+
+https://help.tableau.com/current/pro/desktop/en-us/dataview_examples.htm
+https://help.tableau.com/current/pro/desktop/en-us/dashboards_organize_floatingandtiled.htm
+
+https://cloud.google.com/bigquery/docs/sandbox
