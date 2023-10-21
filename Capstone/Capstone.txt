@@ -1,0 +1,31 @@
+1. predictive maintenance of unplanned stops and life cycle of elevator
+2. industrial splitting saw machine
+3. prediction of longevity of tools in manufacturing industry
+4. plastic manufacturing blade machine degredation
+5. failure in plastic wrapping machine for food and beverage manufaturing
+6. failure in plant
+7. degredation (perfomance decay) of gas turbine
+8. failure in robotic system based on torque and force measurements
+9. oil and gas pipeline leakage predictivec mainatenance
+10. detection of plant diseases (plant pathology)
+11. steel and concrete crack detection
+12. industrial packages
+13. microchip manufacturing
+14. textile manufaturing
+15. structural crack detection
+16. wood defect (IKEA case)
+17. shipping and logistics (container)
+18. corrosion detection
+19. health and safety PPE compliance
+20. smoke detection
+21. airplane crack detection
+22. weld quality inspection
+23. PCB component detection
+24. ore sorting machine on conveyor belt (calculate percentage of grain size)
+25. fruit quality detection on fast conveyor belt
+26. wood counting
+27. retail inventory
+28. turbine blade defect
+29. solar panel contamination
+30. solar panel abnormal heat anomaly
+31. medicine defect
